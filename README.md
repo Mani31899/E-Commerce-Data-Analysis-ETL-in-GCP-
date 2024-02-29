@@ -1,4 +1,4 @@
-# E-Commerce Book Catalog Search & BigQuery Analytics - GCP ETL Pipeline
+# E-Commerce Catalog Search & BigQuery Analytics - GCP ETL Pipeline
 
 ## Project Overview
 This project revolves around building a comprehensive data pipeline for analyzing Amazon books catalog data using Google Cloud Platform (GCP) services. It integrates Apache Beam, PySpark, Google Data Proc, and BigQuery for efficient data processing, analytics, and reporting.
