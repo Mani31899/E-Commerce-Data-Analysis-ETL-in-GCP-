@@ -16,5 +16,5 @@ This project revolves around building a comprehensive data pipeline for analyzin
 **Google Data Flow Pipeline:** Construction of a seamless pipeline using Apache Beam to transfer data from the Storage Bucket to BigQuery, facilitating efficient data movement and transformation.
 **BigQuery Analytics and Reporting:** Utilization of BigQuery's scalable and distributed architecture for conducting data analytics and generating insightful reports using SQL queries.
 
-##Skills
+##Skill
 SQL: Proficiency in writing SQL queries for data analysis and reporting purposes.
